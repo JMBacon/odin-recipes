@@ -1,0 +1,32 @@
+/* styles.css */
+
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(243, 243, 246);
+}
+
+a, 
+ul,
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    box-shadow: 1px 1px 1px 0px rgb(0, 0, 0);
+}
+
+img:hover {
+    opacity: 0.5;
+}
